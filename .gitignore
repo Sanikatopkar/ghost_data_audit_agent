@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+dataset/
+data/
+output/
+output.csv
+log.txt
+agent-trace.zip
+agent-trace/
+code.zip
+dashboard.html
+work/
